@@ -1,0 +1,11 @@
+{
+  "name": "java-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/T-loney/java-basic.git",
+  "author": "T-loney <1228414988@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
